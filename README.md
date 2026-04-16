@@ -62,4 +62,4 @@ Racha Cheggour
 
 Christophe Chen
 
-*Document réservé aux étudiants de l'UFR Mathématiques-Informatique et de l'Université Paris Cité.*
+***Document réservé aux étudiants de l'UFR Mathématiques-Informatique et de l'Université Paris Cité.****
