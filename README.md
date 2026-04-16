@@ -24,38 +24,36 @@ L'application fonctionne selon un cycle de diffusion directe entre le musicien e
 </ol>
 
 ### Pour les Auditeurs
+<ol>
+  <li>Découverte : Accès à la liste des artistes diffusant en direct à proximité.
+</li>
+  <li>Recherche Directe : Accès à un flux via la saisie d'un code ou le scan d'un QR Code.</li>
+  <li>Musique gratuite : Écoute illimitée.</li>
+  <li>Musique payante : Écoute limitée à une minute (abonnement requis pour la version intégrale).</li>
+</ol>
 
-Découverte : Accès à la liste des artistes diffusant en direct à proximité.
 
-Recherche Directe : Accès à un flux via la saisie d'un code ou le scan d'un QR Code.
-
-Accès au Contenu :
-
-Musique gratuite : Écoute illimitée.
-
-Musique payante : Écoute limitée à une minute (abonnement requis pour la version intégrale).
-
-Modèle de Rémunération
+## Modèle de Rémunération
 Le système calcule la rémunération des groupes en fonction du temps d'écoute total cumulé sur le serveur en fin de mois.
 
 
-Stack Technique et Développement
-Le projet a été réalisé en mettant l'accent sur l'ingénierie de prompts pour la génération et l'optimisation du code.
-
+## Stack Technique et Développement
 Android : Développement en Java.
 
 Serveur : Scripts de gestion de données et de flux temporaires.
 
 Format : Échanges de données structurés en JSON.
 
-Contraintes d'Utilisation
+## Contraintes d'Utilisation
 Support : Smartphone Android impératif.
 
-Installation : Déployer l'APK fourni dans la section Release.
+## Installation 
+Déployer l'APK fourni dans la section Release.
 
-Réseau : Connexion internet stable requise pour la diffusion et l'écoute.
+## Réseau 
+Connexion internet stable requise pour la diffusion et l'écoute.
 
-Équipe de Développement
+## Équipe de Développement
 SAIFIDINE Dayar
 
 Muneeb Ali
