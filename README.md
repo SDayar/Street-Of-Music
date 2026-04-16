@@ -1,29 +1,30 @@
-Street Of Music - Release Beta
+## Street Of Music - Release Beta
+
 Street Of Music est une application Android dédiée à la diffusion en direct de musique pour les artistes de rue et les musiciens de concert. Ce projet repose sur un modèle de streaming éphémère et intègre l'utilisation de l'intelligence artificielle générative dans son processus de développement.
 
-Informations du Projet
-Encadrant : Denis Nicolas
+## Informations du Projet
+<ul>
+  <li>Encadrant : Denis Nicolas</li>
+  <li>Établissement : Université Paris Cité - L3I (2025-2026)</li>
+  <li>Catégories : Application musicale, Intelligence Artificielle, Streaming Live</li>
+  <li>Technologies : Java, Android SDK, JSON, QR Code</li>
+</ul>
 
-Établissement : Université Paris Cité - L3I (2025-2026)
-
-Catégories : Application musicale, Intelligence Artificielle, Streaming Live
-
-Technologies : Java, Android SDK, JSON, QR Code
-
-Architecture du Système
+## Architecture du Système
 L'application fonctionne selon un cycle de diffusion directe entre le musicien et ses auditeurs via un serveur de transit.
 
-Fonctionnalités de la Version Beta
-Pour les Musiciens
-Enregistrement et Identification : Inscription sur le serveur pour obtenir un code unique et un QR Code permettant au public de retrouver la diffusion.
+## Fonctionnalités de la Version Beta
+### Pour les Musiciens
+<ol>
+  <li>Enregistrement et Identification : Inscription sur le serveur pour obtenir un code unique et un QR Code permettant au public de retrouver la diffusion.</li>
+  <li>Streaming Live : Interface permettant d'ouvrir un flux audio en temps réel vers le serveur.</li>
+  <li>Gestion des Droits : Validation contractuelle des CGU pour garantir la propriété des œuvres ou l'usage de musiques libres de droits.</li>
+  <li>Monétisation : Option de définir le contenu comme gratuit ou payant.</li>
+  
+</ol>
 
-Streaming Live : Interface permettant d'ouvrir un flux audio en temps réel vers le serveur.
+### Pour les Auditeurs
 
-Gestion des Droits : Validation contractuelle des CGU pour garantir la propriété des œuvres ou l'usage de musiques libres de droits.
-
-Monétisation : Option de définir le contenu comme gratuit ou payant.
-
-Pour les Auditeurs
 Découverte : Accès à la liste des artistes diffusant en direct à proximité.
 
 Recherche Directe : Accès à un flux via la saisie d'un code ou le scan d'un QR Code.
