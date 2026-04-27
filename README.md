@@ -1,4 +1,4 @@
-## Street Of Music - Release Beta
+## Street Of Music
 
 *Street Of Music* est une application Android dédiée à la diffusion en direct de musique pour les artistes de rue et les musiciens de concert. Ce projet repose sur un modèle de streaming éphémère et intègre l'utilisation de l'intelligence artificielle générative dans son processus de développement.
 
@@ -25,8 +25,7 @@ L'application fonctionne selon un cycle de diffusion directe entre le musicien e
 
 ### Pour les Auditeurs
 <ol>
-  <li>Découverte : Accès à la liste des artistes diffusant en direct à proximité.
-</li>
+  <li>Découverte : Accès à la liste des artistes diffusant en direct à proximité.</li>
   <li>Recherche Directe : Accès à un flux via la saisie d'un code ou le scan d'un QR Code.</li>
   <li>Musique gratuite : Écoute illimitée.</li>
   <li>Musique payante : Écoute limitée à une minute (abonnement requis pour la version intégrale).</li>
