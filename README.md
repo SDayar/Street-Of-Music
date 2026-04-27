@@ -13,7 +13,7 @@
 ## Architecture du Système
 L'application fonctionne selon un cycle de diffusion directe entre le musicien et ses auditeurs via un serveur de transit.
 
-## Fonctionnalités de la Version Beta
+## Fonctionnalités 
 ### Pour les Musiciens
 <ol>
   <li>Enregistrement et Identification : Inscription sur le serveur pour obtenir un code unique et un QR Code permettant au public de retrouver la diffusion.</li>
